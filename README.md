@@ -58,14 +58,14 @@ I'm a full-stack developer — I take products from an empty repo to a shipped M
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=saawyaa&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&icon_color=7aa2f7&title_color=7aa2f7" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=saawyaa&show_icons=true&count_private=true&hide_border=true&theme=default&icon_color=4c6ef5&title_color=4c6ef5" />
-    <img width="58%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=saawyaa&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&icon_color=7aa2f7&title_color=7aa2f7" alt="GitHub stats" />
+    <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-stats-vert-theta-29.vercel.app/api?username=saawyaa&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&icon_color=7aa2f7&title_color=7aa2f7" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-vert-theta-29.vercel.app/api?username=saawyaa&show_icons=true&count_private=true&hide_border=true&theme=default&icon_color=4c6ef5&title_color=4c6ef5" />
+    <img width="58%" src="https://github-readme-stats-vert-theta-29.vercel.app/api?username=saawyaa&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&icon_color=7aa2f7&title_color=7aa2f7" alt="GitHub stats" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=saawyaa&layout=compact&hide_border=true&theme=tokyonight&title_color=7aa2f7" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=saawyaa&layout=compact&hide_border=true&theme=default&title_color=4c6ef5" />
-    <img width="38%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=saawyaa&layout=compact&hide_border=true&theme=tokyonight&title_color=7aa2f7" alt="Top languages" />
+    <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-stats-vert-theta-29.vercel.app/api/top-langs?username=saawyaa&layout=compact&hide_border=true&theme=tokyonight&title_color=7aa2f7" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-vert-theta-29.vercel.app/api/top-langs?username=saawyaa&layout=compact&hide_border=true&theme=default&title_color=4c6ef5" />
+    <img width="38%" src="https://github-readme-stats-vert-theta-29.vercel.app/api/top-langs?username=saawyaa&layout=compact&hide_border=true&theme=tokyonight&title_color=7aa2f7" alt="Top languages" />
   </picture>
 </p>
 
