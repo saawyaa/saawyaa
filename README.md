@@ -47,7 +47,7 @@ I'm a full-stack developer — I take products from an empty repo to a shipped M
 
 | Project | Stack | What it is |
 | :-- | :-- | :-- |
-| **[Saratov Philharmonic — redesign](https://sarphil.com)** ↗ | `HTML · CSS · JS · Design System · Next.js CMS` | Full redesign of a regional philharmonic, **live in production** at [sarphil.com](https://sarphil.com). 34 hand-built pages (playbill, concerts, ensembles, artists) on a custom TypeScript design system, backed by a Next.js headless CMS. |
+| **[Saratov Philharmonic — redesign](https://sarphil-redesign.vercel.app)** ↗ | `HTML · CSS · JS · Design System · Next.js CMS` | Full redesign of a regional philharmonic, **live** at [sarphil-redesign.vercel.app](https://sarphil-redesign.vercel.app). 34 hand-built pages (playbill, concerts, ensembles, artists) on a custom TypeScript design system, backed by a Next.js headless CMS. |
 | **[vexor-portal](https://github.com/saawyaa/vexor-portal)** | `Next.js · Prisma · Postgres` | Metered API-tooling SaaS — invite-gated auth, API-key issuance, usage counters. Full-stack end to end. |
 | **[portico-sentinel](https://github.com/saawyaa/portico-sentinel)** | `React · Go · gRPC` | Data-loss-prevention platform — React dashboard over a Go microservice engine (~23K LOC, hyperscan → entropy → ONNX). |
 | **[brief-bots](https://github.com/saawyaa/brief-bots)** | `Next.js · Tailwind · Bots` | Agency site with a dual-platform (Telegram + web) lead-collection bot backend and consent-gated flow. |
