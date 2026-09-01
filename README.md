@@ -58,14 +58,14 @@ I'm a full-stack developer — I take products from an empty repo to a shipped M
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-stats.vercel.app/api?username=saawyaa&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&icon_color=7aa2f7&title_color=7aa2f7" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=saawyaa&show_icons=true&count_private=true&hide_border=true&theme=default&icon_color=4c6ef5&title_color=4c6ef5" />
-    <img width="58%" src="https://github-readme-stats.vercel.app/api?username=saawyaa&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&icon_color=7aa2f7&title_color=7aa2f7" alt="GitHub stats" />
+    <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=saawyaa&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&icon_color=7aa2f7&title_color=7aa2f7" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=saawyaa&show_icons=true&count_private=true&hide_border=true&theme=default&icon_color=4c6ef5&title_color=4c6ef5" />
+    <img width="58%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=saawyaa&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&icon_color=7aa2f7&title_color=7aa2f7" alt="GitHub stats" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-stats.vercel.app/api/top-langs?username=saawyaa&layout=compact&hide_border=true&theme=tokyonight&title_color=7aa2f7" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=saawyaa&layout=compact&hide_border=true&theme=default&title_color=4c6ef5" />
-    <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs?username=saawyaa&layout=compact&hide_border=true&theme=tokyonight&title_color=7aa2f7" alt="Top languages" />
+    <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=saawyaa&layout=compact&hide_border=true&theme=tokyonight&title_color=7aa2f7" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=saawyaa&layout=compact&hide_border=true&theme=default&title_color=4c6ef5" />
+    <img width="38%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=saawyaa&layout=compact&hide_border=true&theme=tokyonight&title_color=7aa2f7" alt="Top languages" />
   </picture>
 </p>
 
@@ -103,6 +103,7 @@ I'm a full-stack developer — I take products from an empty repo to a shipped M
 </details>
 
 <!-- ═══════════════════ NOW PLAYING · spotify-github-profile ═══════════════════ -->
+<!-- Hidden until Spotify uid is set (see SETUP.md §6). Replace SPOTIFY_USER_ID in both spots, then un-comment this whole block.
 ### 🎧 Now playing
 
 <p align="center">
@@ -110,6 +111,7 @@ I'm a full-stack developer — I take products from an empty repo to a shipped M
     <img src="https://spotify-github-profile.kittinan.vercel.app/api/view?uid=SPOTIFY_USER_ID&cover_image=true&theme=novatorem&show_offline=true&background_color=1a1b27&bar_color=7aa2f7&bar_color_cover=true" alt="Spotify now playing" />
   </a>
 </p>
+-->
 
 <!-- ═══════════════════ FOOTER · contact ═══════════════════ -->
 ### 📫 Reach me

@@ -80,4 +80,20 @@ Swap the image host in `README.md` to your Vercel URL.
 ## Notes
 
 - Widgets are third-party SVGs proxied through GitHub's image cache — updates lag a few minutes; that's normal.
-- `github-readme-stats` runs on a shared Vercel app that can hit GitHub rate limits ("Maximum retries exceeded"). If cards flake, deploy your own instance (one-click Vercel button in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own)) and point the URLs at it.
+
+### ⚠️ Stats cards — host your own (do this)
+
+The official `github-readme-stats.vercel.app` is frequently **down / rate-limited (HTTP 503)** — it broke on first render here. The README currently points at a public **mirror** (`github-readme-stats-sigma-five.vercel.app`) so it isn't broken, but a mirror is someone else's instance and can fail the same way. For a client-facing portfolio, **run your own** — 5 minutes, then it never flakes:
+
+1. Fork **[anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)**.
+2. On [vercel.com](https://vercel.com) → **Add New → Project → Import** your fork → Deploy.
+3. Project → **Settings → Environment Variables** → add `PAT_1` = a GitHub PAT (classic, `public_repo` scope, or fine-grained read-only). Redeploy.
+4. You get a host like `saawyaa-stats.vercel.app`. Swap it into the README:
+
+```bash
+cd ~/github-profile
+sed -i '' 's|github-readme-stats-sigma-five.vercel.app|saawyaa-stats.vercel.app|g' README.md
+git add README.md && git commit -m "Self-host stats" && git push
+```
+
+Same applies if the mirror ever shows broken before you self-host.
